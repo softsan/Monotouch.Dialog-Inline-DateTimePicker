@@ -1,8 +1,8 @@
-Monotouch.Dialog Inline null-able date time picker
+#Monotouch.Dialog Inline null-able date time picker
 
 An extension to the DateTimeElement from MonoTouch.Dialog to support an inline, expandable/collapsible and nullable UIDateTimePicker.
 
-** Very important: ** You need to set UnevenRows = true in the parent RootElement to work it properly.
+**Very important:** You need to set UnevenRows = true in the parent RootElement to work it properly.
 
 Original Monotouch.Dialog datetime picker is not supporting null values.  This extension supports null value for UIDateTimeElement as well as:
 
